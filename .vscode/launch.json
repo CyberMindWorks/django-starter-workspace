@@ -5,7 +5,7 @@
       "name": "Django",
       "type": "debugpy",
       "request": "launch",
-      "program": "${WORKSPACE_DIR}/manage.py",
+      "program": "./manage.py",
       "args": ["runserver", "0.0.0.0:3000"],
       "django": true,
       "console": "integratedTerminal",
