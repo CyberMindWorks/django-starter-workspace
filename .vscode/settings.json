@@ -1,0 +1,15 @@
+{
+    "security.workspace.trust.enabled": false,
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "telemetry.telemetryLevel": "off",
+    "workbench.startupEditor": "none",
+    "workbench.enableExperiments": false,
+    "workbench.localHistory.enabled": false,
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/node_modules/**": true,
+        "**/__pycache__/**": true
+    },
+    "search.followSymlinks": false
+}
